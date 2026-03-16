@@ -1,7 +1,6 @@
 .vscode/
 build/
+.DS_Store
 
 *.o
 *main
-
-week1/
